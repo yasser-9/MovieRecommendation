@@ -1,0 +1,3 @@
+com\ensa\MovieRec\MovieRecApplication.class
+com\ensa\MovieRec\Models\Movie.class
+com\ensa\MovieRec\Controllers\IndexController.class
